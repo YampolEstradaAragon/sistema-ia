@@ -28,3 +28,7 @@ En este proyecto realizaremos una estructura de un sistema de IA en una tienda d
 
 **Tecnologias:**
 Modelos de IA que sean capases de realizar una recomendacion de ropa en base a tu estilo
+
+## Estado del proyecto 
+Prototipo inicial.
+
